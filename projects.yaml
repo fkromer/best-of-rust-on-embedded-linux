@@ -9,6 +9,8 @@ categories:
     title: "Smart Grid Protocols"
   - category: "character-device-drivers"
     title: "Character Device Drivers"
+  - category: "compilation"
+    title: "Cross Compilation"
 
 labels:
   # - label: "python"
@@ -63,3 +65,8 @@ projects:
     github_id: rust-embedded/rust-spidev
     labels: []
     category: "character-device-drivers"
+
+  - name: cross
+    github_id: cross-rs/cross
+    labels: []
+    category: "compilation"
