@@ -57,6 +57,10 @@ projects:
     github_id: Lexicality/libmburs
     labels: []
     category: "smart-grid-protocols"
+  - name: openleadr-rs
+    github_id: OpenLEADR/openleadr-rs
+    labels: []
+    category: "smart-grid-protocols"
   - name: rust-ocpp
     github_id: codelabsab/rust-ocpp
     labels: []
