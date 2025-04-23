@@ -7,6 +7,8 @@ categories:
     title: "Home Automation Protocols"
   - category: "smart-grid-protocols"
     title: "Smart Grid Protocols"
+  - category: "hal"
+    title: "Hardware Abstraction Layer (HAL)"
   - category: "character-device-drivers"
     title: "Character Device Drivers"
   - category: "ci"
@@ -54,6 +56,11 @@ projects:
     github_id: lukaskirner/tokio-sunspec
     labels: []
     category: "smart-grid-protocols"
+
+  - name: linux-embedded-hal
+    github_id: rust-embedded/linux-embedded-hal
+    labels: []
+    category: "hal"
 
   - name: gpio-cdev
     github_id: rust-embedded/gpio-cdev
