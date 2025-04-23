@@ -128,3 +128,7 @@ projects:
     github_id: awslabs/duvet
     labels: []
     category: "tools"
+  - name: rugix
+    github_id: silitics/rugix
+    labels: []
+    category: "tools"
