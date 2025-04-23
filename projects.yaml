@@ -3,9 +3,10 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: "home-automation-protocols"
+    title: "Home Automation Protocols"
+  - category: "smart-grid-protocols"
+    title: "Smart Grid Protocols"
 
 labels:
   # - label: "python"
@@ -13,7 +14,28 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: rs-matter
+    github_id: project-chip/rs-matter
+    labels: []
+    category: "home-automation-protocols"
+
+  - name: libmburs
+    github_id: Lexicality/libmburs
+    labels: []
+    category: "smart-grid-protocols"
+  - name: rust-ocpp
+    github_id: codelabsab/rust-ocpp
+    labels: []
+    category: "smart-grid-protocols"
+  - name: sunspec
+    github_id: bikeshedder/sunspec
+    labels: []
+    category: "smart-grid-protocols"
+  - name: sunspec_rs
+    github_id: PeterGrace/sunspec_rs
+    labels: []
+    category: "smart-grid-protocols"
+  - name: tokio-sunspec
+    github_id: lukaskirner/tokio-sunspec
+    labels: []
+    category: "smart-grid-protocols"
