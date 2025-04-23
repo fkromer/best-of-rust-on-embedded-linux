@@ -9,6 +9,8 @@ categories:
     title: "Smart Grid Protocols"
   - category: "character-device-drivers"
     title: "Character Device Drivers"
+  - category: "ci"
+    title: "Continous Integration"
   - category: "compilation"
     title: "Cross Compilation"
 
@@ -65,6 +67,11 @@ projects:
     github_id: rust-embedded/rust-spidev
     labels: []
     category: "character-device-drivers"
+
+  - name: actions-rust-cross
+    github_id: houseabsolute/actions-rust-cross
+    labels: []
+    category: "ci"
 
   - name: cross
     github_id: cross-rs/cross
