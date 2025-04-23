@@ -14,6 +14,11 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
+
+  - name: knx-rust
+    github_id: memoos/knx-rust
+    labels: []
+    category: "home-automation-protocols"
   - name: rs-matter
     github_id: project-chip/rs-matter
     labels: []
