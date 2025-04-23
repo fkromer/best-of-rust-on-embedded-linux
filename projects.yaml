@@ -47,6 +47,10 @@ projects:
     labels: []
     category: "home-automation-protocols"
 
+  - name: eebus-rust
+    github_id: DerAndereAndi/eebus-rust
+    labels: []
+    category: "smart-grid-protocols"
   - name: libmburs
     github_id: Lexicality/libmburs
     labels: []
