@@ -3,6 +3,8 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
+  - category: "uis"
+    title: "User Interfaces"
   - category: "home-automation-protocols"
     title: "Home Automation Protocols"
   - category: "smart-grid-protocols"
@@ -22,6 +24,11 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
+
+  - name: slint
+    github_id: slint-ui/slint
+    labels: []
+    category: "uis"
 
   - name: knxkit
     github_id: knxkit/knxkit
