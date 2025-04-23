@@ -15,6 +15,10 @@ labels:
 
 projects:
 
+  - name: knxkit
+    github_id: knxkit/knxkit
+    labels: []
+    category: "home-automation-protocols"
   - name: knx-rust
     github_id: memoos/knx-rust
     labels: []
