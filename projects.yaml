@@ -21,6 +21,8 @@ categories:
     title: "Yocto Layers"
   - category: "compilation"
     title: "Cross Compilation"
+  - category: "tools"
+    title: "Tools"
 
 labels:
   # - label: "python"
@@ -121,3 +123,8 @@ projects:
     github_id: cross-rs/cross
     labels: []
     category: "compilation"
+
+  - name: duvet
+    github_id: awslabs/duvet
+    labels: []
+    category: "tools"
