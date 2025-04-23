@@ -81,6 +81,10 @@ projects:
     github_id: rust-embedded/linux-embedded-hal
     labels: []
     category: "hal"
+  - name: embedded-hal-mock
+    github_id: dbrgn/embedded-hal-mock
+    labels: []
+    category: "hal"
 
   - name: gpio-cdev
     github_id: rust-embedded/gpio-cdev
