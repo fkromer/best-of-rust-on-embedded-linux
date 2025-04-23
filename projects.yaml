@@ -9,6 +9,8 @@ categories:
     title: "Home Automation Protocols"
   - category: "smart-grid-protocols"
     title: "Smart Grid Protocols"
+  - category: "graphics"
+    title: "Graphics"
   - category: "hal"
     title: "Hardware Abstraction Layer (HAL)"
   - category: "character-device-drivers"
@@ -65,6 +67,11 @@ projects:
     github_id: lukaskirner/tokio-sunspec
     labels: []
     category: "smart-grid-protocols"
+
+  - name: rust-skia
+    github_id: rust-skia/rust-skia
+    labels: []
+    category: "graphics"
 
   - name: linux-embedded-hal
     github_id: rust-embedded/linux-embedded-hal
