@@ -7,6 +7,8 @@ categories:
     title: "Home Automation Protocols"
   - category: "smart-grid-protocols"
     title: "Smart Grid Protocols"
+  - category: "character-device-drivers"
+    title: "Character Device Drivers"
 
 labels:
   # - label: "python"
@@ -48,3 +50,12 @@ projects:
     github_id: lukaskirner/tokio-sunspec
     labels: []
     category: "smart-grid-protocols"
+
+  - name: gpio-cdev
+    github_id: rust-embedded/gpio-cdev
+    labels: []
+    category: "character-device-drivers"
+  - name: rust-i2cdev
+    github_id: rust-embedded/rust-i2cdev
+    labels: []
+    category: "character-device-drivers"
