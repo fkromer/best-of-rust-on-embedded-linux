@@ -118,6 +118,10 @@ projects:
     github_id: rust-embedded/meta-rust-bin
     labels: []
     category: "yocto-layers"
+  - name: meta-rugix
+    github_id: silitics/meta-rugix
+    labels: []
+    category: "yocto-layers"
 
   - name: cross
     github_id: cross-rs/cross
