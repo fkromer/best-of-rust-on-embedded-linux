@@ -15,6 +15,8 @@ categories:
     title: "Character Device Drivers"
   - category: "ci"
     title: "Continous Integration"
+  - category: "yocto-layers"
+    title: "Yocto Layers"
   - category: "compilation"
     title: "Cross Compilation"
 
@@ -86,6 +88,15 @@ projects:
     github_id: houseabsolute/actions-rust-cross
     labels: []
     category: "ci"
+
+  - name: meta-slint
+    github_id: slint-ui/meta-slint
+    labels: []
+    category: "yocto-layers"
+  - name: meta-rust
+    github_id: meta-rust/meta-rust
+    labels: []
+    category: "yocto-layers"
 
   - name: cross
     github_id: cross-rs/cross
