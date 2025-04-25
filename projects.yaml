@@ -13,6 +13,8 @@ categories:
     title: "Robotics"
   - category: "graphics"
     title: "Graphics"
+  - category: "ipc"
+    title: "Inter Process Communication"
   - category: "hal"
     title: "Hardware Abstraction Layer (HAL)"
   - category: "character-device-drivers"
@@ -27,9 +29,7 @@ categories:
     title: "Tools"
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+  - label: "dbus"
 
 projects:
 
@@ -97,6 +97,31 @@ projects:
     github_id: rust-skia/rust-skia
     labels: []
     category: "graphics"
+
+  - name: async-rustbus
+    github_id: cmaves/async-rustbus
+    labels: ["dbus"]
+    category: "ipc"
+  - name: dbus-bytestream
+    github_id: srwalter/dbus-bytestream
+    labels: ["dbus"]
+    category: "ipc"
+  - name: dbus-pure
+    github_id: Arnavion/dbus-pure
+    labels: ["dbus"]
+    category: "ipc"
+  - name: dbus-rs
+    github_id: diwic/dbus-rs
+    labels: ["dbus"]
+    category: "ipc"
+  - name: rustbus
+    github_id: KillingSpark/rustbus
+    labels: ["dbus"]
+    category: "ipc"
+  - name: zbus
+    github_id: dbus2/zbus
+    labels: ["dbus"]
+    category: "ipc"
 
   - name: linux-embedded-hal
     github_id: rust-embedded/linux-embedded-hal
