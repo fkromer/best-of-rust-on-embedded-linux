@@ -23,6 +23,8 @@ categories:
     title: "Continous Integration"
   - category: "yocto-layers"
     title: "Yocto Layers"
+  - category: "yocto"
+    title: "Yocto"
   - category: "compilation"
     title: "Cross Compilation"
   - category: "tools"
@@ -166,6 +168,11 @@ projects:
     github_id: silitics/meta-rugix
     labels: []
     category: "yocto-layers"
+
+  - name: kas
+    github_id: siemens/kas
+    labels: []
+    category: "yocto"
 
   - name: cross
     github_id: cross-rs/cross
