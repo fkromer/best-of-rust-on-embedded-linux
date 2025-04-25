@@ -9,6 +9,8 @@ categories:
     title: "Home Automation Protocols"
   - category: "smart-grid-protocols"
     title: "Smart Grid Protocols"
+  - category: "robotics"
+    title: "Robotics"
   - category: "graphics"
     title: "Graphics"
   - category: "hal"
@@ -77,6 +79,19 @@ projects:
     github_id: lukaskirner/tokio-sunspec
     labels: []
     category: "smart-grid-protocols"
+
+  - name: r2r
+    github_id: sequenceplanner/r2r
+    labels: []
+    category: "robotics"
+  - name: ros2_rust
+    github_id: ros2-rust/ros2_rust
+    labels: []
+    category: "robotics"
+  - name: rosrust
+    github_id: adnanademovic/rosrust
+    labels: []
+    category: "robotics"
 
   - name: rust-skia
     github_id: rust-skia/rust-skia
