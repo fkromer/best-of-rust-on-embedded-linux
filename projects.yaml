@@ -27,6 +27,8 @@ categories:
     title: "Yocto"
   - category: "compilation"
     title: "Cross Compilation"
+  - category: "testing"
+    title: "Testing"
   - category: "tools"
     title: "Tools"
 
@@ -179,8 +181,21 @@ projects:
     labels: []
     category: "compilation"
 
+  - name: mockalloc
+    github_id: diggsey/mockalloc
+    labels: []
+    category: "testing"
+
+  - name: clippy
+    github_id: rust-lang/rust-clippy
+    labels: []
+    category: "tools"
   - name: duvet
     github_id: awslabs/duvet
+    labels: []
+    category: "tools"
+  - name: miri
+    github_id: rust-lang/miri
     labels: []
     category: "tools"
   - name: rugix
