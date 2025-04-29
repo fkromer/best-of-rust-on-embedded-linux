@@ -15,6 +15,8 @@ categories:
     title: "Graphics"
   - category: "ipc"
     title: "Inter Process Communication"
+  - category: "fsm"
+    title: "Finite State Machines"
   - category: "hal"
     title: "Hardware Abstraction Layer (HAL)"
   - category: "character-device-drivers"
@@ -126,6 +128,11 @@ projects:
     github_id: dbus2/zbus
     labels: ["dbus"]
     category: "ipc"
+
+  - name: rust-extfsm
+    github_id: przygienda/rust-extfsm
+    labels: []
+    category: "fsm"
 
   - name: linux-embedded-hal
     github_id: rust-embedded/linux-embedded-hal
