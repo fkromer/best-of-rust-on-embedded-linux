@@ -129,8 +129,20 @@ projects:
     labels: ["dbus"]
     category: "ipc"
 
+ - name: finny
+    github_id: hashmismatch/finny.rs
+    labels: []
+    category: "fsm"
   - name: rust-extfsm
     github_id: przygienda/rust-extfsm
+    labels: []
+    category: "fsm"
+  - name: rust-fsm
+    github_id: eugene-babichenko/rust-fsm
+    labels: []
+    category: "fsm"
+  - name: statig
+    github_id: mdeloof/statig
     labels: []
     category: "fsm"
 
