@@ -181,6 +181,10 @@ projects:
     labels: []
     category: "compilation"
 
+  - name: insta
+    github_id: mitsuhiko/insta
+    labels: []
+    category: "testing"
   - name: mockalloc
     github_id: diggsey/mockalloc
     labels: []
