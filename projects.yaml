@@ -189,6 +189,10 @@ projects:
     github_id: diggsey/mockalloc
     labels: []
     category: "testing"
+  - name: proptest
+    github_id: proptest-rs/proptest
+    labels: []
+    category: "testing"
 
   - name: clippy
     github_id: rust-lang/rust-clippy
