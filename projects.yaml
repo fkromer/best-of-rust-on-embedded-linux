@@ -144,7 +144,7 @@ projects:
     labels: ["dbus"]
     category: "ipc"
 
- - name: finny
+  - name: finny
     github_id: hashmismatch/finny.rs
     labels: []
     category: "fsm"
