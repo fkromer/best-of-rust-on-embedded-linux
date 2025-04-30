@@ -29,6 +29,8 @@ categories:
     title: "Yocto"
   - category: "compilation"
     title: "Cross Compilation"
+  - category: "time-sync"
+    title: "Time Synchronization"
   - category: "testing"
     title: "Testing"
   - category: "tools"
@@ -98,6 +100,11 @@ projects:
     github_id: adnanademovic/rosrust
     labels: []
     category: "robotics"
+
+  - name: ntpd-rs
+    github_id: pendulum-project/ntpd-rs
+    labels: []
+    category: "time-sync"
 
   - name: rust-skia
     github_id: rust-skia/rust-skia
