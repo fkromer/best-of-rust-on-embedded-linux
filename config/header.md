@@ -18,11 +18,3 @@
 This curated list contains {project_count} awesome open-source projects with a total of {stars_count} stars grouped into {category_count} categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-rust-on-embedded-linux/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-rust-on-embedded-linux/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-rust-on-embedded-linux/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
-
----
-
-## Project Scope
-
-This projects targets application microprocessors (like the ARM Cortex-A architecture).
-Microcontrollers (like the ARM Cortex-M architecture) are not in the scope of this project.
-For Microcontroller related resources refer to *Related Resources* instead.
