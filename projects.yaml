@@ -109,6 +109,10 @@ projects:
     github_id: pendulum-project/statime
     labels: []
     category: "time-sync"
+  - name: pps-time
+    github_id: pendulum-project/pps-time
+    labels: []
+    category: "time-sync"
 
   - name: rust-skia
     github_id: rust-skia/rust-skia
