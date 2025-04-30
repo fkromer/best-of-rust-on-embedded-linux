@@ -40,7 +40,6 @@ labels:
   - label: "dbus"
 
 projects:
-
   - name: slint
     github_id: slint-ui/slint
     labels: []
