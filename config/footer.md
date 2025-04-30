@@ -1,6 +1,11 @@
 
 ---
 
+## Books
+
+- [**Comprehensive Rust**](https://github.com/google/comprehensive-rust): This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+- [**The Rust Fuzzing Book**](https://github.com/rust-fuzz/afl.rs): Guides and tutorials on how to fuzz Rust code.
+
 ## Related Resources
 
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
