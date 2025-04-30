@@ -105,6 +105,10 @@ projects:
     github_id: pendulum-project/ntpd-rs
     labels: []
     category: "time-sync"
+  - name: statime
+    github_id: pendulum-project/statime
+    labels: []
+    category: "time-sync"
 
   - name: rust-skia
     github_id: rust-skia/rust-skia
