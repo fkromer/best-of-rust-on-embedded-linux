@@ -9,6 +9,7 @@
 ## Related Resources
 
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
+- [**Rust for Linux**](https://github.com/Rust-for-Linux): Adding support for the Rust language to the Linux kernel.
 - [**Awesome Embedded Rust**](https://github.com/rust-embedded/awesome-embedded-rust): List of resources related to rather low-end/MCU target embedded software (like ARM Cortex-M) in the Rust programming language.
 
 ## Contribution
