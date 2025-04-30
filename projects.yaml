@@ -13,6 +13,8 @@ categories:
     title: "Robotics"
   - category: "graphics"
     title: "Graphics"
+  - categroy: "net-man"
+    title: "Network Management"
   - category: "ipc"
     title: "Inter Process Communication"
   - category: "fsm"
@@ -117,6 +119,11 @@ projects:
     github_id: rust-skia/rust-skia
     labels: []
     category: "graphics"
+
+  - name: connman-rs
+    github_id: jmagnuson/connman-rs
+    labels: ["dbus"]
+    category: "net-man"
 
   - name: async-rustbus
     github_id: cmaves/async-rustbus
