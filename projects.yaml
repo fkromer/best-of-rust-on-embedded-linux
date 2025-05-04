@@ -3,6 +3,8 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
+  - categroy: "ota-integration"
+    title: "OTA Integration"
   - category: "uis"
     title: "User Interfaces"
   - category: "home-automation-protocols"
@@ -44,6 +46,11 @@ labels:
   - label: "dbus"
 
 projects:
+  - name: memfault-linux-sdk
+    github_id: memfault/memfault-linux-sdk
+    labels: []
+    category: "ota-integration"
+
   - name: slint
     github_id: slint-ui/slint
     labels: []
