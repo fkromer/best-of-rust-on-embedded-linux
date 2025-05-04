@@ -23,6 +23,8 @@ categories:
     title: "Finite State Machines"
   - category: "hal"
     title: "Hardware Abstraction Layer (HAL)"
+  - category: "chip-drivers"
+    title: "Chip Drivers"
   - category: "character-device-drivers"
     title: "Character Device Drivers"
   - category: "iio"
@@ -184,6 +186,11 @@ projects:
     github_id: dbrgn/embedded-hal-mock
     labels: []
     category: "hal"
+
+  - name: ftdi-embedded-hal
+    github_id: ftdi-rs/ftdi-embedded-hal
+    labels: []
+    category: "chip-drivers"
 
   - name: rust-industrial-io
     github_id: fpagliughi/rust-industrial-io
