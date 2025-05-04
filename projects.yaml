@@ -17,6 +17,8 @@ categories:
     title: "Graphics"
   - categroy: "net-man"
     title: "Network Management"
+  - category: "isc"
+    title: "Inter Service Communication"
   - category: "ipc"
     title: "Inter Process Communication"
   - category: "fsm"
@@ -137,6 +139,11 @@ projects:
     github_id: jmagnuson/connman-rs
     labels: ["dbus"]
     category: "net-man"
+
+  - name: tonic
+    github_id: hyperium/tonic
+    labels: []
+    category: "isc"
 
   - name: async-rustbus
     github_id: cmaves/async-rustbus
