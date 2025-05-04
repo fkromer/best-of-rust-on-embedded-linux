@@ -250,3 +250,7 @@ projects:
     github_id: silitics/rugix
     labels: []
     category: "tools"
+  - name: divan
+    github_id: nvzqz/divan
+    labels: []
+    category: "tools"
