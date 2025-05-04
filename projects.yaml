@@ -29,6 +29,8 @@ categories:
     title: "Character Device Drivers"
   - category: "iio"
     title: "Industrial I/O subsystem"
+  - category: "platform-management"
+    title: "Platform Management"
   - category: "ci"
     title: "Continous Integration"
   - category: "yocto-layers"
@@ -209,6 +211,11 @@ projects:
     github_id: rust-embedded/rust-spidev
     labels: []
     category: "character-device-drivers"
+
+  - name: mctp-rs
+    github_id: CodeConstruct/mctp-rs
+    labels: []
+    category: "platform-management"
 
   - name: actions-rust-cross
     github_id: houseabsolute/actions-rust-cross
