@@ -23,6 +23,8 @@ categories:
     title: "Hardware Abstraction Layer (HAL)"
   - category: "character-device-drivers"
     title: "Character Device Drivers"
+  - category: "iio"
+    title: "Industrial I/O subsystem"
   - category: "ci"
     title: "Continous Integration"
   - category: "yocto-layers"
@@ -175,6 +177,11 @@ projects:
     github_id: dbrgn/embedded-hal-mock
     labels: []
     category: "hal"
+
+  - name: rust-industrial-io
+    github_id: fpagliughi/rust-industrial-io
+    labels: []
+    category: "iio"
 
   - name: gpio-cdev
     github_id: rust-embedded/gpio-cdev
