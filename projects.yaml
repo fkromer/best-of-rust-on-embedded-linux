@@ -50,6 +50,11 @@ categories:
 
 labels:
   - label: "dbus"
+  # architectures
+  - label: "armv7l"
+  - label: "arm64" # aarch64
+  - label: "riscv32"
+  - label: "riscv64"
 
 projects:
   - name: memfault-linux-sdk
