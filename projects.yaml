@@ -3,7 +3,7 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  - categroy: "ota-integration"
+  - category: "ota-integration"
     title: "OTA Integration"
   - category: "uis"
     title: "User Interfaces"
@@ -15,7 +15,7 @@ categories:
     title: "Robotics"
   - category: "graphics"
     title: "Graphics"
-  - categroy: "net-man"
+  - category: "net-man"
     title: "Network Management"
   - category: "isc"
     title: "Inter Service Communication"
