@@ -33,6 +33,8 @@ categories:
     title: "Hardware Abstraction Layer (HAL)"
   - category: "chip-drivers"
     title: "Chip Drivers"
+  - category: "tpm"
+    title: "Trusted Platform Module"
   - category: "character-device-drivers"
     title: "Character Device Drivers"
   - category: "iio"
@@ -221,6 +223,11 @@ projects:
     github_id: mdeloof/statig
     labels: []
     category: "fsm"
+
+  - name: tss2-fapi-rs
+    github_id: tpm2-software/rust-tss-fapi
+    labels: []
+    category: "tpm"
 
   - name: linux-embedded-hal
     github_id: rust-embedded/linux-embedded-hal
