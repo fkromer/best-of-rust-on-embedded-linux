@@ -11,6 +11,8 @@ categories:
     title: "Home Automation Protocols"
   - category: "smart-grid-protocols"
     title: "Smart Grid Protocols"
+  - category: "icsp"
+    title: "Industrial Control System Protocols"
   - category: "robotics"
     title: "Robotics"
   - category: "graphics"
@@ -79,6 +81,11 @@ projects:
     github_id: project-chip/rs-matter
     labels: []
     category: "home-automation-protocols"
+
+  - name: opcua
+    github_id: locka99/opcua
+    labels: []
+    category: "icsp"
 
   - name: eebus-rust
     github_id: DerAndereAndi/eebus-rust
