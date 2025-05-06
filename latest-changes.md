@@ -1,36 +1,11 @@
-## 📈 Trending Up
-
-_Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
-
-- <b><a href="https://github.com/ros2-rust/ros2_rust">ros2_rust</a></b> (🥇19 ·  ⭐ 1.1K · 📈) - Rust bindings for ROS 2. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/awslabs/duvet">duvet</a></b> (🥉11 ·  ⭐ 72 · 📈) - A requirements traceability tool. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-
-## 📉 Trending Down
-
-_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
-
-- <b><a href="https://github.com/rust-embedded/linux-embedded-hal">linux-embedded-hal</a></b> (🥇21 ·  ⭐ 260 · 📉) - Implementation of the `embedded-hal` traits for Linux.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/adnanademovic/rosrust">rosrust</a></b> (🥇19 ·  ⭐ 760 · 📉) - Pure Rust implementation of a ROS client library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/silitics/rugix">rugix</a></b> (🥉16 ·  ⭐ 77 · 📉) - A suite of open-source tools to build and deploy reliable embedded.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/meta-rust/meta-rust">meta-rust</a></b> (🥇14 ·  ⭐ 220 · 📉) - OpenEmbedded/Yocto layer for Rust and Cargo. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-
 ## ➕ Added Projects
 
 _Projects that were recently added to this best-of list._
 
-- <b><a href="https://github.com/hyperium/tonic">tonic</a></b> (🥇33 ·  ⭐ 11K · ➕) - A native gRPC client & server implementation with async/await support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/rust-cross/cargo-zigbuild">cargo-zigbuild</a></b> (🥉25 ·  ⭐ 1.9K · ➕) - Compile Cargo project with zig as linker. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/pendulum-project/ntpd-rs">ntpd-rs</a></b> (🥇22 ·  ⭐ 870 · ➕) - A full-featured implementation of the Network Time Protocol,.. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/nvzqz/divan">divan</a></b> (🥉19 ·  ⭐ 1.1K · ➕) - Fast and simple benchmarking for Rust projects. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/pendulum-project/statime">statime</a></b> (🥉19 ·  ⭐ 230 · ➕) - Implementation of the Precision Time Protocol (PTP) in Rust. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/mdeloof/statig">statig</a></b> (🥇15 ·  ⭐ 660 · ➕) - Hierarchical state machines for designing event-driven systems. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/eugene-babichenko/rust-fsm">rust-fsm</a></b> (🥇15 ·  ⭐ 200 · 💤) - Finite state machine framework for Rust with readable specifications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/fpagliughi/rust-industrial-io">rust-industrial-io</a></b> (🥇15 ·  ⭐ 51 · ➕) - Rust interface to the Linux Industrial I/O subsystem. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/ftdi-rs/ftdi-embedded-hal">ftdi-embedded-hal</a></b> (🥇15 ·  ⭐ 37 · ➕) - Implementation of Rust Embedded HAL traits for FTDI devices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/hashmismatch/finny.rs">finny</a></b> (🥉8 ·  ⭐ 73 · 💀) - Finite State Machines for Rust. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/przygienda/rust-extfsm">rust-extfsm</a></b> (🥉8 ·  ⭐ 49 · 💀) - Extended Finite State Machine library in Rust with internal.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/memfault/memfault-linux-sdk">memfault-linux-sdk</a></b> (🥇7 ·  ⭐ 34 · ➕) - Memfault SDK for embedded Linux systems... <code>❗Unlicensed</code>
-- <b><a href="https://github.com/CodeConstruct/mctp-rs">mctp-rs</a></b> (🥇7 ·  ⭐ 7 · ➕) - Rust crates for MCTP protocol support, on Linux and embedded. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/jmagnuson/connman-rs">connman-rs</a></b> (🥇4 ·  ⭐ 5 · 💀) - ConnMan D-Bus bindings in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/pendulum-project/pps-time">pps-time</a></b> (🥉1 ·  ⭐ 2 · 🐣) - A Rust interface for PPS devices. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/pykeio/ort">ort</a></b> (🥇25 ·  ⭐ 1.3K · ➕) - Fast ML inference & training for ONNX models in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/locka99/opcua">opcua</a></b> (🥇18 ·  ⭐ 540 · 💤) - A client and server implementation of the OPC UA specification.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code>
+- <b><a href="https://github.com/nbigaouette/onnxruntime-rs">onnxruntime</a></b> (🥉15 ·  ⭐ 290 · 💀) - Rust wrapper for Microsofts ONNX Runtime (version 1.8). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/tpm2-software/rust-tss-fapi">tss2-fapi-rs</a></b> (🥇7 ·  ⭐ 9 · ➕) - Rust wrapper for the TSS 2.0 FAPI. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/roboplc/snmp2">snmp2</a></b> (🥇6 ·  ⭐ 31 · 🐣) - Dependency-free basic SNMP v1/v2/v3 client in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/davedufresne/modern_snmp">snmp_mp</a></b> (🥉5 ·  ⭐ 26 · 💤) - A pure-Rust library for SNMPv3. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 
