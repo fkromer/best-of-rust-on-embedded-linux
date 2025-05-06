@@ -93,6 +93,10 @@ projects:
     github_id: roboplc/snmp2
     labels: []
     category: "snmp"
+  - name: snmp_mp
+    github_id: davedufresne/modern_snmp
+    labels: []
+    category: "snmp"
 
   - name: eebus-rust
     github_id: DerAndereAndi/eebus-rust
