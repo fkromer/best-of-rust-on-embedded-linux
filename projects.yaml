@@ -255,6 +255,10 @@ projects:
     github_id: cross-rs/cross
     labels: []
     category: "compilation"
+  - name: cargo-zigbuild
+    github_id: rust-cross/cargo-zigbuild
+    labels: []
+    category: "compilation"
 
   - name: insta
     github_id: mitsuhiko/insta
