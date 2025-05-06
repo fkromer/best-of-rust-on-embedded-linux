@@ -19,6 +19,8 @@ categories:
     title: "Robotics"
   - category: "graphics"
     title: "Graphics"
+  - category: "aie"
+    title: "AI Engines"
   - category: "net-man"
     title: "Network Management"
   - category: "isc"
@@ -57,6 +59,7 @@ labels:
   # architectures
   - label: "armv7l"
   - label: "arm64" # aarch64
+  - label: "x86_64"
   - label: "riscv32"
   - label: "riscv64"
 
@@ -157,6 +160,15 @@ projects:
     github_id: rust-skia/rust-skia
     labels: []
     category: "graphics"
+
+  - name: ort
+    github_id: pykeio/ort
+    labels: ["x86_64"]
+    category: "aie"
+  - name: onnxruntime
+    github_id: nbigaouette/onnxruntime-rs
+    labels: ["x86_64"]
+    category: "aie"
 
   - name: connman-rs
     github_id: jmagnuson/connman-rs
