@@ -112,7 +112,7 @@ This curated list contains 61 awesome open-source projects with a total of 74K s
 
 <details><summary>Show 7 hidden projects...</summary>
 
-- <b><a href="https://github.com/codelabsab/rust-ocpp">rust-ocpp</a></b> (🥇17 ·  ⭐ 87) - Libraries for ocpp 1.6 and 2.0.1. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/codelabsab/rust-ocpp">rust-ocpp</a></b> (🥇17 ·  ⭐ 88) - Libraries for ocpp 1.6 and 2.0.1. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/OpenLEADR/openleadr-rs">openleadr-rs</a></b> (🥈12 ·  ⭐ 34) - OpenADR 3.0 VTN and VEN implementation in Rust. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/PeterGrace/sunspec_rs">sunspec_rs</a></b> (🥈7) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/bikeshedder/sunspec">sunspec</a></b> (🥉6 ·  ⭐ 8) - Rust crate for accessing SunSpec compliant devices in a safe and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
@@ -148,7 +148,7 @@ This curated list contains 61 awesome open-source projects with a total of 74K s
 
 <details><summary><b><a href="https://github.com/ros2-rust/ros2_rust">ros2_rust</a></b> (🥇19 ·  ⭐ 1.1K) - Rust bindings for ROS 2. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/ros2-rust/ros2_rust) (👨‍💻 47 · 🔀 150 · 📋 170 - 29% open · ⏱️ 13.03.2025):
+- [GitHub](https://github.com/ros2-rust/ros2_rust) (👨‍💻 47 · 🔀 150 · 📋 180 - 30% open · ⏱️ 13.03.2025):
 
 	```
 	git clone https://github.com/ros2-rust/ros2_rust
@@ -186,9 +186,9 @@ This curated list contains 61 awesome open-source projects with a total of 74K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/pykeio/ort">ort</a></b> (🥇25 ·  ⭐ 1.3K · ➕) - Fast ML inference & training for ONNX models in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/pykeio/ort">ort</a></b> (🥇25 ·  ⭐ 1.3K) - Fast ML inference & training for ONNX models in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/pykeio/ort) (👨‍💻 43 · 🔀 130 · 📦 2.8K · 📋 250 - 0% open · ⏱️ 06.05.2025):
+- [GitHub](https://github.com/pykeio/ort) (👨‍💻 43 · 🔀 130 · 📦 2.9K · 📋 250 - 0% open · ⏱️ 06.05.2025):
 
 	```
 	git clone https://github.com/pykeio/ort
@@ -216,7 +216,7 @@ This curated list contains 61 awesome open-source projects with a total of 74K s
 
 <details><summary><b><a href="https://github.com/hyperium/tonic">tonic</a></b> (🥇33 ·  ⭐ 11K) - A native gRPC client & server implementation with async/await support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hyperium/tonic) (👨‍💻 280 · 🔀 1.1K · 📦 44K · 📋 900 - 31% open · ⏱️ 05.05.2025):
+- [GitHub](https://github.com/hyperium/tonic) (👨‍💻 280 · 🔀 1.1K · 📦 44K · 📋 900 - 31% open · ⏱️ 08.05.2025):
 
 	```
 	git clone https://github.com/hyperium/tonic
@@ -294,7 +294,7 @@ This curated list contains 61 awesome open-source projects with a total of 74K s
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/ftdi-rs/ftdi-embedded-hal">ftdi-embedded-hal</a></b> (🥇15 ·  ⭐ 37) - Implementation of Rust Embedded HAL traits for FTDI devices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ftdi-rs/ftdi-embedded-hal">ftdi-embedded-hal</a></b> (🥇15 ·  ⭐ 38) - Implementation of Rust Embedded HAL traits for FTDI devices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 <br>
 
@@ -304,7 +304,7 @@ This curated list contains 61 awesome open-source projects with a total of 74K s
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/tpm2-software/rust-tss-fapi">tss2-fapi-rs</a></b> (🥇7 ·  ⭐ 9 · ➕) - Rust wrapper for the TSS 2.0 FAPI. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/tpm2-software/rust-tss-fapi">tss2-fapi-rs</a></b> (🥇7 ·  ⭐ 9) - Rust wrapper for the TSS 2.0 FAPI. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -312,7 +312,7 @@ This curated list contains 61 awesome open-source projects with a total of 74K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/rust-embedded/rust-i2cdev">rust-i2cdev</a></b> (🥇21 ·  ⭐ 220) - Rust library for interfacing with i2c devices under Linux. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/rust-embedded/rust-i2cdev">rust-i2cdev</a></b> (🥇20 ·  ⭐ 220 · 📉) - Rust library for interfacing with i2c devices under Linux. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/rust-embedded/rust-i2cdev) (👨‍💻 29 · 🔀 54 · 📦 1K · 📋 32 - 18% open · ⏱️ 04.03.2025):
 
@@ -394,7 +394,7 @@ This curated list contains 61 awesome open-source projects with a total of 74K s
 
 <details><summary><b><a href="https://github.com/siemens/kas">kas</a></b> (🥇21 ·  ⭐ 450) - Setup tool for bitbake based projects. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/siemens/kas) (👨‍💻 79 · 🔀 170 · 📦 86 · 📋 110 - 14% open · ⏱️ 25.04.2025):
+- [GitHub](https://github.com/siemens/kas) (👨‍💻 79 · 🔀 170 · 📦 86 · 📋 110 - 14% open · ⏱️ 07.05.2025):
 
 	```
 	git clone https://github.com/siemens/kas
@@ -408,7 +408,7 @@ This curated list contains 61 awesome open-source projects with a total of 74K s
 
 <details><summary><b><a href="https://github.com/cross-rs/cross">cross</a></b> (🥇30 ·  ⭐ 7.3K) - Zero setup cross compilation and cross testing of Rust crates. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cross-rs/cross) (👨‍💻 130 · 🔀 400 · 📥 2.2M · 📦 350 · 📋 800 - 23% open · ⏱️ 28.04.2025):
+- [GitHub](https://github.com/cross-rs/cross) (👨‍💻 130 · 🔀 400 · 📥 2.2M · 📦 350 · 📋 800 - 24% open · ⏱️ 28.04.2025):
 
 	```
 	git clone https://github.com/cross-rs/cross
@@ -468,7 +468,7 @@ This curated list contains 61 awesome open-source projects with a total of 74K s
 
 <details><summary><b><a href="https://github.com/rust-lang/miri">miri</a></b> (🥈25 ·  ⭐ 5.1K) - An interpreter for Rusts mid-level intermediate representation. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/rust-lang/miri) (👨‍💻 310 · 🔀 370 · 📋 1K - 13% open · ⏱️ 05.05.2025):
+- [GitHub](https://github.com/rust-lang/miri) (👨‍💻 310 · 🔀 370 · 📋 1K - 13% open · ⏱️ 08.05.2025):
 
 	```
 	git clone https://github.com/rust-lang/miri
@@ -476,7 +476,7 @@ This curated list contains 61 awesome open-source projects with a total of 74K s
 </details>
 <details><summary><b><a href="https://github.com/nvzqz/divan">divan</a></b> (🥉19 ·  ⭐ 1.1K) - Fast and simple benchmarking for Rust projects. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/nvzqz/divan) (👨‍💻 9 · 🔀 33 · 📦 1.1K · 📋 47 - 74% open · ⏱️ 14.04.2025):
+- [GitHub](https://github.com/nvzqz/divan) (👨‍💻 9 · 🔀 33 · 📦 1.1K · 📋 48 - 72% open · ⏱️ 14.04.2025):
 
 	```
 	git clone https://github.com/nvzqz/divan
