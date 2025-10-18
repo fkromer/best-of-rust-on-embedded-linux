@@ -113,10 +113,6 @@ projects:
     github_id: tonbo-io/tonbo
     labels: []
     category: "edb"
-  - name: Tonbo
-    github_id: tonbo-io/tonbo
-    labels: []
-    category: "edb"
   - name: redb
     github_id: cberner/redb
     labels: []
@@ -206,19 +202,19 @@ projects:
     category: "aie"
 
   - name: tokio-modbus
-    github: slowtec/tokio-modbus
+    github_id: slowtec/tokio-modbus
     labels: []
     category: "modbus"
   - name: modbus-core
-    github: slowtec/modbus-core
+    github_id: slowtec/modbus-core
     labels: []
     category: "modbus"
   - name: modbus-rs
-    github: hirschenberger/modbus-rs
+    github_id: hirschenberger/modbus-rs
     labels: []
     category: "modbus"
   - name: rmodbus
-    github: alttch/rmodbus
+    github_id: alttch/rmodbus
     labels: []
     category: "modbus"
 
