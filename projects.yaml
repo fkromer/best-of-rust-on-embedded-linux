@@ -7,6 +7,8 @@ categories:
     title: "OTA Integration"
   - category: "uis"
     title: "User Interfaces"
+  - category: "edb"
+    titla: "Embedded Databases"
   - category: "home-automation-protocols"
     title: "Home Automation Protocols"
   - category: "smart-grid-protocols"
@@ -90,6 +92,11 @@ projects:
     github_id: project-chip/rs-matter
     labels: []
     category: "home-automation-protocols"
+
+  - name: PoloDB
+    github_id: PoloDB/PoloDB
+    labels: []
+    category: "edb"
 
   - name: opcua
     github_id: locka99/opcua
