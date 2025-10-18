@@ -97,6 +97,30 @@ projects:
     github_id: PoloDB/PoloDB
     labels: []
     category: "edb"
+  - name: Turso Database
+    github_id: tursodatabase/turso
+    labels: []
+    category: "edb"
+  - name: cozo
+    github_id: cozodb/cozo
+    labels: []
+    category: "edb"
+  - name: Native DB
+    github_id: vincent-herlemont/native_db
+    labels: []
+    category: "edb"
+  - name: Tonbo
+    github_id: tonbo-io/tonbo
+    labels: []
+    category: "edb"
+  - name: Tonbo
+    github_id: tonbo-io/tonbo
+    labels: []
+    category: "edb"
+  - name: redb
+    github_id: cberner/redb
+    labels: []
+    category: "edb"
 
   - name: opcua
     github_id: locka99/opcua
