@@ -21,6 +21,8 @@ categories:
     title: "Graphics"
   - category: "aie"
     title: "AI Engines"
+  - category: "modbus"
+    title: "Modbus Communication"
   - category: "net-man"
     title: "Network Management"
   - category: "isc"
@@ -171,6 +173,23 @@ projects:
     github_id: nbigaouette/onnxruntime-rs
     labels: ["x86_64"]
     category: "aie"
+
+  - name: tokio-modbus
+    github: slowtec/tokio-modbus
+    labels: []
+    category: "modbus"
+  - name: modbus-core
+    github: slowtec/modbus-core
+    labels: []
+    category: "modbus"
+  - name: modbus-rs
+    github: hirschenberger/modbus-rs
+    labels: []
+    category: "modbus"
+  - name: rmodbus
+    github: alttch/rmodbus
+    labels: []
+    category: "modbus"
 
   - name: connman-rs
     github_id: jmagnuson/connman-rs
