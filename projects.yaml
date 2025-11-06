@@ -65,6 +65,7 @@ categories:
     title: "SSH"
   - category: "sftp"
     title: "SFTP"
+
 labels:
   - label: "dbus"
   # architectures
