@@ -426,3 +426,11 @@ projects:
     github_id: EmbarkStudios/cargo-about
     labels: []
     category: "tools"
+  - name: crash-handling
+    github_id: EmbarkStudios/crash-handling
+    labels: []
+    category: "tools"
+  - name: puffin
+    github_id: EmbarkStudios/puffin
+    labels: []
+    category: "tools"
