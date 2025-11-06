@@ -344,7 +344,7 @@ projects:
     labels: []
     category: "ci"
 
-# https://git.yoctoproject.org/meta-lts-mixins
+  # https://git.yoctoproject.org/meta-lts-mixins
   - name: meta-rust
     github_id: meta-rust/meta-rust
     labels: []
@@ -353,7 +353,6 @@ projects:
     github_id: rust-embedded/meta-rust-bin
     labels: []
     category: "yocto-integration"
-
 
   - name: meta-slint
     github_id: slint-ui/meta-slint
@@ -421,5 +420,9 @@ projects:
     category: "tools"
   - name: cyclonedx-rust-cargo
     github_id: CycloneDX/cyclonedx-rust-cargo
+    labels: []
+    category: "tools"
+  - name: cargo-about
+    github_id: EmbarkStudios/cargo-about
     labels: []
     category: "tools"
