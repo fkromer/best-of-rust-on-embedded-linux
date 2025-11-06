@@ -418,3 +418,7 @@ projects:
     github_id: EmbarkStudios/cargo-deny
     labels: []
     category: "tools"
+  - name: cyclonedx-rust-cargo
+    github_id: CycloneDX/cyclonedx-rust-cargo
+    labels: []
+    category: "tools"
