@@ -414,3 +414,7 @@ projects:
     github_id: japaric/cargo-call-stack
     labels: []
     category: "tools"
+  - name: cargo-deny
+    github_id: EmbarkStudios/cargo-deny
+    labels: []
+    category: "tools"
