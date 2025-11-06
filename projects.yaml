@@ -73,6 +73,7 @@ labels:
   - label: "riscv64"
   # security + deployment
   - label: "pure-rust"
+  - label: "c-dependency"
 
 projects:
   - name: memfault-linux-sdk
@@ -315,6 +316,10 @@ projects:
   - name: russh
     github_id: Eugeny/russh
     labels: ["pure-rust"]
+    category: "ssh"
+  - name: ssh2-rs
+    github_id: alexcrichton/ssh2-rs
+    labels: ["c-dependency"]
     category: "ssh"
 
   - name: russh-sftp
