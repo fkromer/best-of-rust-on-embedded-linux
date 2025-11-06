@@ -47,6 +47,8 @@ categories:
     title: "Platform Management"
   - category: "ci"
     title: "Continous Integration"
+  - category: "yocto-integration"
+    title: "Yocto Integration"
   - category: "yocto-layers"
     title: "Yocto Layers"
   - category: "yocto"
@@ -341,16 +343,19 @@ projects:
     labels: []
     category: "ci"
 
-  - name: meta-slint
-    github_id: slint-ui/meta-slint
-    labels: []
-    category: "yocto-layers"
+# https://git.yoctoproject.org/meta-lts-mixins
   - name: meta-rust
     github_id: meta-rust/meta-rust
     labels: []
-    category: "yocto-layers"
+    category: "yocto-integration"
   - name: meta-rust-bin
     github_id: rust-embedded/meta-rust-bin
+    labels: []
+    category: "yocto-integration"
+
+
+  - name: meta-slint
+    github_id: slint-ui/meta-slint
     labels: []
     category: "yocto-layers"
   - name: meta-rugix
