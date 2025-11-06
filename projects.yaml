@@ -59,7 +59,10 @@ categories:
     title: "Testing"
   - category: "tools"
     title: "Tools"
-
+  - category: "ssh"
+    title: "SSH"
+  - category: "sftp"
+    title: "STFP"
 labels:
   - label: "dbus"
   # architectures
@@ -68,6 +71,8 @@ labels:
   - label: "x86_64"
   - label: "riscv32"
   - label: "riscv64"
+  # security + deployment
+  - label: "pure-rust"
 
 projects:
   - name: memfault-linux-sdk
@@ -306,6 +311,16 @@ projects:
     github_id: rust-embedded/rust-spidev
     labels: []
     category: "character-device-drivers"
+
+  - name: russh
+    github_id: Eugeny/russh
+    labels: ["pure-rust"]
+    category: "ssh"
+
+  - name: russh-sftp
+    github_id: AspectUnk/russh-sftp
+    labels: ["pure-rust"]
+    category: "sftp"
 
   - name: mctp-rs
     github_id: CodeConstruct/mctp-rs
