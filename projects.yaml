@@ -15,7 +15,7 @@ categories:
     title: "Smart Grid Protocols"
   - category: "icsp"
     title: "Industrial Control System Protocols"
-  - category: "snmp"
+  - category: "nmp"
     title: "Network Monitoring Protocols"
   - category: "robotics"
     title: "Robotics"
@@ -134,11 +134,11 @@ projects:
   - name: snmp2
     github_id: roboplc/snmp2
     labels: []
-    category: "snmp"
+    category: "nmp"
   - name: snmp_mp
     github_id: davedufresne/modern_snmp
     labels: []
-    category: "snmp"
+    category: "nmp"
 
   - name: eebus-rust
     github_id: DerAndereAndi/eebus-rust
