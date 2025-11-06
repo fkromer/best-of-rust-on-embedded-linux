@@ -15,7 +15,7 @@ categories:
     title: "Smart Grid Protocols"
   - category: "icsp"
     title: "Industrial Control System Protocols"
-  - category: "nmp"
+  - category: "snmp"
     title: "Network Monitoring Protocols"
   - category: "robotics"
     title: "Robotics"
