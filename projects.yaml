@@ -434,3 +434,7 @@ projects:
     github_id: EmbarkStudios/puffin
     labels: []
     category: "tools"
+  - name: tracing
+    github_id: tokio-rs/tracing
+    labels: []
+    category: "tools"
