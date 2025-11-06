@@ -317,6 +317,10 @@ projects:
     github_id: Eugeny/russh
     labels: ["pure-rust"]
     category: "ssh"
+  - name: SSH
+    github_id: RustCrypto/SSH
+    labels: ["pure-rust"]
+    category: "ssh"
   - name: ssh2-rs
     github_id: alexcrichton/ssh2-rs
     labels: ["c-dependency"]
