@@ -77,7 +77,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/memfault/memfault-linux-sdk">memfault-linux-sdk</a></b> (🥇7 ·  ⭐ 42) - Memfault SDK for embedded Linux systems... <code>❗Unlicensed</code>
+- <b><a href="https://github.com/memfault/memfault-linux-sdk">memfault-linux-sdk</a></b> (🥇5 ·  ⭐ 42 · 📉) - Memfault SDK for embedded Linux systems... <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -95,9 +95,9 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/tursodatabase/turso">Turso Database</a></b> (🥇36 ·  ⭐ 17K · 📈) - Turso is an in-process SQL database, compatible with SQLite. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/tursodatabase/turso">Turso Database</a></b> (🥇36 ·  ⭐ 17K) - Turso is an in-process SQL database, compatible with SQLite. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 220 · 🔀 710 · 📥 15K · 📦 53 · 📋 1.6K - 31% open · ⏱️ 29.01.2026):
+- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 240 · 🔀 710 · 📥 16K · 📦 57 · 📋 1.6K - 31% open · ⏱️ 05.02.2026):
 
 	```
 	git clone https://github.com/tursodatabase/turso
@@ -105,7 +105,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 </details>
 <details><summary><b><a href="https://github.com/cberner/redb">redb</a></b> (🥈26 ·  ⭐ 4.2K) - An embedded key-value database in pure Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cberner/redb) (👨‍💻 35 · 🔀 190 · 📦 1.7K · 📋 370 - 2% open · ⏱️ 17.01.2026):
+- [GitHub](https://github.com/cberner/redb) (👨‍💻 35 · 🔀 200 · 📦 1.7K · 📋 370 - 2% open · ⏱️ 17.01.2026):
 
 	```
 	git clone https://github.com/cberner/redb
@@ -113,21 +113,13 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 </details>
 <details><summary><b><a href="https://github.com/tonbo-io/tonbo">Tonbo</a></b> (🥉19 ·  ⭐ 1.5K) - Tonbo is an embedded database for serverless and edge runtimes. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/tonbo-io/tonbo) (👨‍💻 24 · 🔀 90 · 📦 1 · 📋 160 - 19% open · ⏱️ 28.01.2026):
+- [GitHub](https://github.com/tonbo-io/tonbo) (👨‍💻 24 · 🔀 92 · 📦 1 · 📋 160 - 19% open · ⏱️ 05.02.2026):
 
 	```
 	git clone https://github.com/tonbo-io/tonbo
 	```
 </details>
-<details><summary><b><a href="https://github.com/vincent-herlemont/native_db">Native DB</a></b> (🥉18 ·  ⭐ 670) - Drop-in embedded database in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/vincent-herlemont/native_db) (👨‍💻 19 · 🔀 35 · 📦 79 · 📋 79 - 35% open · ⏱️ 10.10.2025):
-
-	```
-	git clone https://github.com/vincent-herlemont/native_db
-	```
-</details>
-<details><summary><b><a href="https://github.com/PoloDB/PoloDB">PoloDB</a></b> (🥉17 ·  ⭐ 1.2K · 💤) - PoloDB is an embedded document database. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/PoloDB/PoloDB">PoloDB</a></b> (🥉18 ·  ⭐ 1.2K · 💤) - PoloDB is an embedded document database. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/PoloDB/PoloDB) (👨‍💻 17 · 🔀 55 · 📥 810 · 📦 3 · 📋 76 - 34% open · ⏱️ 15.05.2025):
 
@@ -135,9 +127,17 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 	git clone https://github.com/PoloDB/PoloDB
 	```
 </details>
+<details><summary><b><a href="https://github.com/vincent-herlemont/native_db">Native DB</a></b> (🥉18 ·  ⭐ 680) - Drop-in embedded database in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/vincent-herlemont/native_db) (👨‍💻 19 · 🔀 35 · 📦 79 · 📋 79 - 35% open · ⏱️ 10.10.2025):
+
+	```
+	git clone https://github.com/vincent-herlemont/native_db
+	```
+</details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/cozodb/cozo">cozo</a></b> (🥈22 ·  ⭐ 3.8K · 💀) - A transactional, relational-graph-vector database that uses Datalog.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code>
+- <b><a href="https://github.com/cozodb/cozo">cozo</a></b> (🥈23 ·  ⭐ 3.8K · 💀) - A transactional, relational-graph-vector database that uses Datalog.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code>
 </details>
 <br>
 
@@ -145,9 +145,9 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/project-chip/rs-matter">rs-matter</a></b> (🥇17 ·  ⭐ 480) - Rust implementation of the Matter protocol. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/project-chip/rs-matter">rs-matter</a></b> (🥇17 ·  ⭐ 490) - Rust implementation of the Matter protocol. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/project-chip/rs-matter) (👨‍💻 32 · 🔀 65 · 📦 9 · 📋 110 - 41% open · ⏱️ 22.01.2026):
+- [GitHub](https://github.com/project-chip/rs-matter) (👨‍💻 33 · 🔀 65 · 📦 9 · 📋 110 - 41% open · ⏱️ 04.02.2026):
 
 	```
 	git clone https://github.com/project-chip/rs-matter
@@ -167,10 +167,10 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 <details><summary>Show 7 hidden projects...</summary>
 
 - <b><a href="https://github.com/tommymalmqvist/rust-ocpp">rust-ocpp</a></b> (🥇17 ·  ⭐ 95) - Libraries for ocpp 1.6, 2.0.1 and 2.1. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/OpenLEADR/openleadr-rs">openleadr-rs</a></b> (🥈13 ·  ⭐ 64) - OpenADR 3.0 VTN and VEN implementation in Rust. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/PeterGrace/sunspec_rs">sunspec_rs</a></b> (🥈7 ·  ⭐ 3) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/bikeshedder/sunspec">sunspec</a></b> (🥉6 ·  ⭐ 8 · 💤) - Rust crate for accessing SunSpec compliant devices in a safe and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/lukaskirner/tokio-sunspec">tokio-sunspec</a></b> (🥉6 ·  ⭐ 5 · 💀) - A tokio-based SunSpec library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/OpenLEADR/openleadr-rs">openleadr-rs</a></b> (🥈13 ·  ⭐ 68) - OpenADR 3.0 VTN and VEN implementation in Rust. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/bikeshedder/sunspec">sunspec</a></b> (🥈6 ·  ⭐ 8 · 💤) - Rust crate for accessing SunSpec compliant devices in a safe and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/lukaskirner/tokio-sunspec">tokio-sunspec</a></b> (🥈6 ·  ⭐ 5 · 💀) - A tokio-based SunSpec library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/PeterGrace/sunspec_rs">sunspec_rs</a></b> (🥈6 ·  ⭐ 3) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/DerAndereAndi/eebus-rust">eebus-rust</a></b> (🥉4 ·  ⭐ 3 · 💀) - Very basic EEBUS protocol implementation in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/Lexicality/libmburs">libmburs</a></b> (🥉3 ·  ⭐ 1) - For when you want to talk to an m-bus device but dont want to use C. <code><a href="https://tldrlegal.com/search?q=EUPL-1.2">❗️EUPL-1.2</a></code>
 </details>
@@ -182,7 +182,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/locka99/opcua">opcua</a></b> (🥇17 ·  ⭐ 560 · 💀) - A client and server implementation of the OPC UA specification.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code>
+- <b><a href="https://github.com/locka99/opcua">opcua</a></b> (🥇17 ·  ⭐ 570 · 💀) - A client and server implementation of the OPC UA specification.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code>
 </details>
 <br>
 
@@ -192,7 +192,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/roboplc/snmp2">snmp2</a></b> (🥇11 ·  ⭐ 48) - Dependency-free basic SNMP v1/v2/v3 client in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/roboplc/snmp2">snmp2</a></b> (🥇11 ·  ⭐ 49) - Dependency-free basic SNMP v1/v2/v3 client in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/davedufresne/modern_snmp">snmp_mp</a></b> (🥉5 ·  ⭐ 30 · 💀) - A pure-Rust library for SNMPv3. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 </details>
 <br>
@@ -201,9 +201,9 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/ros2-rust/ros2_rust">ros2_rust</a></b> (🥇21 ·  ⭐ 1.4K) - Rust bindings for ROS 2. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/ros2-rust/ros2_rust">ros2_rust</a></b> (🥇22 ·  ⭐ 1.4K · 📈) - Rust bindings for ROS 2. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/ros2-rust/ros2_rust) (👨‍💻 51 · 🔀 180 · 📋 210 - 30% open · ⏱️ 28.01.2026):
+- [GitHub](https://github.com/ros2-rust/ros2_rust) (👨‍💻 51 · 🔀 190 · 📋 210 - 26% open · ⏱️ 04.02.2026):
 
 	```
 	git clone https://github.com/ros2-rust/ros2_rust
@@ -229,7 +229,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 
 <details><summary><b><a href="https://github.com/rust-skia/rust-skia">rust-skia</a></b> (🥇22 ·  ⭐ 1.7K) - Rust Bindings for the Skia Graphics Library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/rust-skia/rust-skia) (👨‍💻 65 · 🔀 160 · 📥 220 · 📦 9 · 📋 390 - 14% open · ⏱️ 29.01.2026):
+- [GitHub](https://github.com/rust-skia/rust-skia) (👨‍💻 66 · 🔀 160 · 📥 220 · 📦 9 · 📋 390 - 14% open · ⏱️ 04.02.2026):
 
 	```
 	git clone https://github.com/rust-skia/rust-skia
@@ -241,9 +241,9 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/pykeio/ort">ort</a></b> (🥇27 ·  ⭐ 1.9K) - Fast ML inference & training for ONNX models in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/pykeio/ort">ort</a></b> (🥇27 ·  ⭐ 2K) - Fast ML inference & training for ONNX models in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/pykeio/ort) (👨‍💻 64 · 🔀 200 · 📦 3.7K · 📋 330 - 1% open · ⏱️ 28.01.2026):
+- [GitHub](https://github.com/pykeio/ort) (👨‍💻 64 · 🔀 200 · 📦 3.7K · 📋 330 - 1% open · ⏱️ 03.02.2026):
 
 	```
 	git clone https://github.com/pykeio/ort
@@ -277,7 +277,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 </details>
 <details><summary><b><a href="https://github.com/alttch/rmodbus">rmodbus</a></b> (🥉15 ·  ⭐ 160) - Modbus framework for Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/alttch/rmodbus) (👨‍💻 21 · 🔀 30 · 📦 61 · 📋 20 - 10% open · ⏱️ 29.09.2025):
+- [GitHub](https://github.com/alttch/rmodbus) (👨‍💻 21 · 🔀 30 · 📦 62 · 📋 22 - 18% open · ⏱️ 29.09.2025):
 
 	```
 	git clone https://github.com/alttch/rmodbus
@@ -319,11 +319,11 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 
 <details><summary>Show 6 hidden projects...</summary>
 
-- <b><a href="https://github.com/z-galaxy/zbus">zbus</a></b> (🥇26 ·  ⭐ 640 · 📈) - Rust D-Bus crate. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/z-galaxy/zbus">zbus</a></b> (🥇26 ·  ⭐ 640) - Rust D-Bus crate. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/diwic/dbus-rs">dbus-rs</a></b> (🥈15 ·  ⭐ 660) - D-Bus binding for the Rust language. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/KillingSpark/rustbus">rustbus</a></b> (🥈15 ·  ⭐ 63 · 💀) - Dbus transport in pure rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/srwalter/dbus-bytestream">dbus-bytestream</a></b> (🥉6 ·  ⭐ 6 · 💀) - Native D-Bus implementation for Rust. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code>
-- <b><a href="https://github.com/Arnavion/dbus-pure">dbus-pure</a></b> (🥉5 ·  ⭐ 14 · 💤) - Pure Rust implementation of a D-Bus client. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Arnavion/dbus-pure">dbus-pure</a></b> (🥉5 ·  ⭐ 15 · 💤) - Pure Rust implementation of a D-Bus client. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/cmaves/async-rustbus">async-rustbus</a></b> (🥉2 ·  ⭐ 2 · 💀) - An asynchronous implementation of the DBus protocol.. <code>❗Unlicensed</code>
 </details>
 <br>
@@ -332,20 +332,20 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/mdeloof/statig">statig</a></b> (🥇15 ·  ⭐ 740 · 📉) - Hierarchical state machines for designing event-driven systems. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/mdeloof/statig) (👨‍💻 16 · 🔀 35 · 📦 53 · 📋 42 - 9% open · ⏱️ 29.11.2025):
-
-	```
-	git clone https://github.com/mdeloof/statig
-	```
-</details>
-<details><summary><b><a href="https://github.com/eugene-babichenko/rust-fsm">rust-fsm</a></b> (🥇15 ·  ⭐ 240) - Finite state machine framework for Rust with readable specifications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/eugene-babichenko/rust-fsm">rust-fsm</a></b> (🥇15 ·  ⭐ 240 · 💤) - Finite state machine framework for Rust with readable specifications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/eugene-babichenko/rust-fsm) (👨‍💻 7 · 🔀 26 · 📦 160 · 📋 6 - 16% open · ⏱️ 21.07.2025):
 
 	```
 	git clone https://github.com/eugene-babichenko/rust-fsm
+	```
+</details>
+<details><summary><b><a href="https://github.com/mdeloof/statig">statig</a></b> (🥈14 ·  ⭐ 750 · 📉) - Hierarchical state machines for designing event-driven systems. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/mdeloof/statig) (👨‍💻 16 · 🔀 35 · 📦 55 · 📋 42 - 9% open · ⏱️ 29.11.2025):
+
+	```
+	git clone https://github.com/mdeloof/statig
 	```
 </details>
 <details><summary>Show 2 hidden projects...</summary>
@@ -359,17 +359,17 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/rust-embedded/linux-embedded-hal">linux-embedded-hal</a></b> (🥇21 ·  ⭐ 300 · 📉) - Implementation of the `embedded-hal` traits for Linux.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/rust-embedded/linux-embedded-hal">linux-embedded-hal</a></b> (🥇21 ·  ⭐ 300) - Implementation of the `embedded-hal` traits for Linux.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/rust-embedded/linux-embedded-hal) (👨‍💻 31 · 🔀 52 · 📦 1.6K · 📋 45 - 51% open · ⏱️ 06.11.2025):
+- [GitHub](https://github.com/rust-embedded/linux-embedded-hal) (👨‍💻 31 · 🔀 53 · 📦 1.6K · 📋 45 - 51% open · ⏱️ 06.11.2025):
 
 	```
 	git clone https://github.com/rust-embedded/linux-embedded-hal
 	```
 </details>
-<details><summary><b><a href="https://github.com/dbrgn/embedded-hal-mock">embedded-hal-mock</a></b> (🥉17 ·  ⭐ 140) - Mocks for testing embedded-hal based drivers without.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/dbrgn/embedded-hal-mock">embedded-hal-mock</a></b> (🥉16 ·  ⭐ 140 · 📉) - Mocks for testing embedded-hal based drivers without.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/dbrgn/embedded-hal-mock) (👨‍💻 24 · 🔀 26 · 📦 1.1K · 📋 33 - 33% open · ⏱️ 24.11.2025):
+- [GitHub](https://github.com/dbrgn/embedded-hal-mock) (👨‍💻 24 · 🔀 26 · 📦 1.2K · 📋 33 - 33% open · ⏱️ 24.11.2025):
 
 	```
 	git clone https://github.com/dbrgn/embedded-hal-mock
@@ -401,7 +401,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/rust-embedded/rust-i2cdev">rust-i2cdev</a></b> (🥇22 ·  ⭐ 230) - Rust library for interfacing with i2c devices under Linux. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/rust-embedded/rust-i2cdev">rust-i2cdev</a></b> (🥇21 ·  ⭐ 230 · 📉) - Rust library for interfacing with i2c devices under Linux. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/rust-embedded/rust-i2cdev) (👨‍💻 30 · 🔀 56 · 📦 1.1K · 📋 31 - 16% open · ⏱️ 12.11.2025):
 
@@ -409,7 +409,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 	git clone https://github.com/rust-embedded/rust-i2cdev
 	```
 </details>
-<details><summary><b><a href="https://github.com/rust-embedded/gpio-cdev">gpio-cdev</a></b> (🥉17 ·  ⭐ 230) - Rust interface to the Linux GPIO Character Device API.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/rust-embedded/gpio-cdev">gpio-cdev</a></b> (🥉17 ·  ⭐ 230 · 💤) - Rust interface to the Linux GPIO Character Device API.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/rust-embedded/gpio-cdev) (👨‍💻 18 · 🔀 39 · 📦 530 · 📋 36 - 27% open · ⏱️ 03.07.2025):
 
@@ -465,7 +465,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/meta-rust/meta-rust">meta-rust</a></b> (🥇15 ·  ⭐ 240) - OpenEmbedded/Yocto layer for Rust and Cargo. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/meta-rust/meta-rust">meta-rust</a></b> (🥇14 ·  ⭐ 240 · 📉) - OpenEmbedded/Yocto layer for Rust and Cargo. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/meta-rust/meta-rust) (👨‍💻 67 · 🔀 130 · 📋 170 - 37% open · ⏱️ 29.11.2025):
 
@@ -486,7 +486,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 <details><summary>Show 2 hidden projects...</summary>
 
 - <b><a href="https://github.com/slint-ui/meta-slint">meta-slint</a></b> (🥇9 ·  ⭐ 20) - A Yocto layer with recipes for building Slint. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/rugix/meta-rugix">meta-rugix</a></b> (🥉4 ·  ⭐ 4) - Yocto layers for Rugix. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/rugix/meta-rugix">meta-rugix</a></b> (🥉4 ·  ⭐ 4) - Yocto layers and recipes for Rugix. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 </details>
 <br>
 
@@ -496,7 +496,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 
 <details><summary><b><a href="https://github.com/siemens/kas">kas</a></b> (🥇21 ·  ⭐ 530) - Setup tool for bitbake based projects. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/siemens/kas) (👨‍💻 82 · 🔀 190 · 📦 97 · 📋 130 - 19% open · ⏱️ 05.12.2025):
+- [GitHub](https://github.com/siemens/kas) (👨‍💻 82 · 🔀 190 · 📦 97 · 📋 130 - 19% open · ⏱️ 30.01.2026):
 
 	```
 	git clone https://github.com/siemens/kas
@@ -516,9 +516,9 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 	git clone https://github.com/cross-rs/cross
 	```
 </details>
-<details><summary><b><a href="https://github.com/rust-cross/cargo-zigbuild">cargo-zigbuild</a></b> (🥉26 ·  ⭐ 2.3K · 📈) - Compile Cargo project with zig as linker. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/rust-cross/cargo-zigbuild">cargo-zigbuild</a></b> (🥉26 ·  ⭐ 2.3K) - Compile Cargo project with zig as linker. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/rust-cross/cargo-zigbuild) (👨‍💻 36 · 🔀 82 · 📥 370K · 📦 150 · 📋 170 - 16% open · ⏱️ 29.01.2026):
+- [GitHub](https://github.com/rust-cross/cargo-zigbuild) (👨‍💻 40 · 🔀 83 · 📥 380K · 📦 150 · 📋 170 - 15% open · ⏱️ 03.02.2026):
 
 	```
 	git clone https://github.com/rust-cross/cargo-zigbuild
@@ -533,7 +533,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 <details><summary>Show 3 hidden projects...</summary>
 
 - <b><a href="https://github.com/pendulum-project/ntpd-rs">ntpd-rs</a></b> (🥇22 ·  ⭐ 1K) - A full-featured implementation of the Network Time Protocol,.. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/pendulum-project/statime">statime</a></b> (🥉17 ·  ⭐ 280 · 📈) - Implementation of the Precision Time Protocol (PTP) in Rust. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/pendulum-project/statime">statime</a></b> (🥉17 ·  ⭐ 280) - Implementation of the Precision Time Protocol (PTP) in Rust. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/pendulum-project/pps-time">pps-time</a></b> (🥉4 ·  ⭐ 2) - A Rust interface for PPS devices. <code>❗Unlicensed</code>
 </details>
 <br>
@@ -544,15 +544,15 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 
 <details><summary><b><a href="https://github.com/mitsuhiko/insta">insta</a></b> (🥇30 ·  ⭐ 2.7K) - A snapshot testing library for rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/mitsuhiko/insta) (👨‍💻 69 · 🔀 140 · 📥 440K · 📦 16K · 📋 340 - 19% open · ⏱️ 15.01.2026):
+- [GitHub](https://github.com/mitsuhiko/insta) (👨‍💻 70 · 🔀 140 · 📥 460K · 📦 16K · 📋 340 - 20% open · ⏱️ 05.02.2026):
 
 	```
 	git clone https://github.com/mitsuhiko/insta
 	```
 </details>
-<details><summary><b><a href="https://github.com/proptest-rs/proptest">proptest</a></b> (🥉28 ·  ⭐ 2K · 📈) - Hypothesis-like property testing for Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/proptest-rs/proptest">proptest</a></b> (🥉28 ·  ⭐ 2K) - Hypothesis-like property testing for Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/proptest-rs/proptest) (👨‍💻 90 · 🔀 200 · 📦 49K · 📋 300 - 44% open · ⏱️ 28.01.2026):
+- [GitHub](https://github.com/proptest-rs/proptest) (👨‍💻 93 · 🔀 210 · 📦 50K · 📋 300 - 44% open · ⏱️ 05.02.2026):
 
 	```
 	git clone https://github.com/proptest-rs/proptest
@@ -578,7 +578,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 </details>
 <details><summary><b><a href="https://github.com/rust-lang/rust-clippy">clippy</a></b> (🥇30 ·  ⭐ 13K) - A bunch of lints to catch common mistakes and improve your Rust code... <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/rust-lang/rust-clippy) (👨‍💻 1.4K · 🔀 1.9K · 📦 38 · 📋 8.3K - 30% open · ⏱️ 29.01.2026):
+- [GitHub](https://github.com/rust-lang/rust-clippy) (👨‍💻 1.4K · 🔀 1.9K · 📦 39 · 📋 8.3K - 30% open · ⏱️ 03.02.2026):
 
 	```
 	git clone https://github.com/rust-lang/rust-clippy
@@ -586,7 +586,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 </details>
 <details><summary><b><a href="https://github.com/EmbarkStudios/cargo-deny">cargo-deny</a></b> (🥈28 ·  ⭐ 2.2K) - Cargo plugin for linting your dependencies. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/EmbarkStudios/cargo-deny) (👨‍💻 79 · 🔀 110 · 📥 6M · 📦 100 · 📋 360 - 22% open · ⏱️ 08.01.2026):
+- [GitHub](https://github.com/EmbarkStudios/cargo-deny) (👨‍💻 79 · 🔀 120 · 📥 6.1M · 📦 100 · 📋 360 - 22% open · ⏱️ 08.01.2026):
 
 	```
 	git clone https://github.com/EmbarkStudios/cargo-deny
@@ -594,7 +594,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 </details>
 <details><summary><b><a href="https://github.com/rust-lang/miri">miri</a></b> (🥈25 ·  ⭐ 5.9K) - An interpreter for Rusts mid-level intermediate representation. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/rust-lang/miri) (👨‍💻 360 · 🔀 420 · 📋 1.2K - 14% open · ⏱️ 28.01.2026):
+- [GitHub](https://github.com/rust-lang/miri) (👨‍💻 360 · 🔀 420 · 📋 1.2K - 14% open · ⏱️ 04.02.2026):
 
 	```
 	git clone https://github.com/rust-lang/miri
@@ -602,7 +602,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 </details>
 <details><summary><b><a href="https://github.com/EmbarkStudios/cargo-about">cargo-about</a></b> (🥈23 ·  ⭐ 700) - Cargo plugin to generate list of all licenses for a crate. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/EmbarkStudios/cargo-about) (👨‍💻 30 · 🔀 43 · 📥 170K · 📦 61 · 📋 93 - 27% open · ⏱️ 12.01.2026):
+- [GitHub](https://github.com/EmbarkStudios/cargo-about) (👨‍💻 30 · 🔀 43 · 📥 180K · 📦 61 · 📋 93 - 27% open · ⏱️ 12.01.2026):
 
 	```
 	git clone https://github.com/EmbarkStudios/cargo-about
@@ -618,7 +618,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 </details>
 <details><summary><b><a href="https://github.com/CycloneDX/cyclonedx-rust-cargo">cyclonedx-rust-cargo</a></b> (🥉20 ·  ⭐ 150) - Creates CycloneDX Software Bill of Materials (SBOM).. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/CycloneDX/cyclonedx-rust-cargo) (👨‍💻 36 · 🔀 51 · 📥 220K · 📦 7 · 📋 120 - 38% open · ⏱️ 08.12.2025):
+- [GitHub](https://github.com/CycloneDX/cyclonedx-rust-cargo) (👨‍💻 36 · 🔀 51 · 📥 230K · 📦 7 · 📋 120 - 38% open · ⏱️ 08.12.2025):
 
 	```
 	git clone https://github.com/CycloneDX/cyclonedx-rust-cargo
@@ -640,17 +640,17 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 	git clone https://github.com/nvzqz/divan
 	```
 </details>
-<details><summary><b><a href="https://github.com/rugix/rugix">rugix</a></b> (🥉16 ·  ⭐ 120) - A suite of open-source tools to build and deploy reliable embedded Linux.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/rugix/rugix">rugix</a></b> (🥉17 ·  ⭐ 120 · 📈) - Robust and secure OTA updates for embedded Linux. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/rugix/rugix) (👨‍💻 6 · 🔀 17 · 📥 710 · 📋 71 - 19% open · ⏱️ 29.01.2026):
+- [GitHub](https://github.com/rugix/rugix) (👨‍💻 6 · 🔀 17 · 📥 890 · 📋 71 - 15% open · ⏱️ 03.02.2026):
 
 	```
 	git clone https://github.com/silitics/rugix
 	```
 </details>
-<details><summary><b><a href="https://github.com/awslabs/duvet">duvet</a></b> (🥉13 ·  ⭐ 110) - A requirements traceability tool. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/awslabs/duvet">duvet</a></b> (🥉12 ·  ⭐ 120) - A requirements traceability tool. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/awslabs/duvet) (👨‍💻 16 · 🔀 18 · 📋 53 - 67% open · ⏱️ 23.01.2026):
+- [GitHub](https://github.com/awslabs/duvet) (👨‍💻 17 · 🔀 18 · 📋 53 - 67% open · ⏱️ 03.02.2026):
 
 	```
 	git clone https://github.com/awslabs/duvet
@@ -668,7 +668,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 
 <details><summary><b><a href="https://github.com/Eugeny/russh">russh</a></b> (🥇26 ·  ⭐ 1.6K) - Rust SSH client & server library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Eugeny/russh) (👨‍💻 93 · 🔀 190 · 📦 1.8K · 📋 240 - 24% open · ⏱️ 25.01.2026):
+- [GitHub](https://github.com/Eugeny/russh) (👨‍💻 94 · 🔀 190 · 📦 1.8K · 📋 240 - 24% open · ⏱️ 05.02.2026):
 
 	```
 	git clone https://github.com/Eugeny/russh
@@ -676,7 +676,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 </details>
 <details><summary><b><a href="https://github.com/alexcrichton/ssh2-rs">ssh2-rs</a></b> (🥉15 ·  ⭐ 550 · 💤) - Rust bindings for libssh2. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/alexcrichton/ssh2-rs) (👨‍💻 78 · 🔀 150 · 📋 210 - 22% open · ⏱️ 01.02.2025):
+- [GitHub](https://github.com/alexcrichton/ssh2-rs) (👨‍💻 78 · 🔀 160 · 📋 210 - 22% open · ⏱️ 01.02.2025):
 
 	```
 	git clone https://github.com/alexcrichton/ssh2-rs
@@ -694,7 +694,7 @@ This curated list contains 82 awesome open-source projects with a total of 130K 
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/AspectUnk/russh-sftp">russh-sftp</a></b> (🥇15 ·  ⭐ 91 · 💤) - SFTP subsystem supported server and client for Russh. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/AspectUnk/russh-sftp">russh-sftp</a></b> (🥇15 ·  ⭐ 92 · 💤) - SFTP subsystem supported server and client for Russh. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 </details>
 
 ---
