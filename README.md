@@ -87,7 +87,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/slint-ui/slint">slint</a></b> (🥇19 ·  ⭐ 23K · 📉) - Slint is an open-source declarative GUI toolkit to build native.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/slint-ui/slint">slint</a></b> (🥇19 ·  ⭐ 23K) - Slint is an open-source declarative GUI toolkit to build native user.. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -95,9 +95,9 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/tursodatabase/turso">Turso Database</a></b> (🥇19 ·  ⭐ 23K · 📉) - A SQL database in Rust: SQLite-compatible, now also speaking.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/tursodatabase/turso">Turso Database</a></b> (🥇19 ·  ⭐ 24K) - A SQL database in Rust: SQLite-compatible, now also speaking.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 900 · 🔀 1.2K · 📦 140):
+- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 990 · 🔀 1.2K · 📦 140):
 
 	```
 	git clone https://github.com/tursodatabase/turso
@@ -105,7 +105,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 </details>
 <details><summary><b><a href="https://github.com/cberner/redb">redb</a></b> (🥈17 ·  ⭐ 4.4K) - An embedded key-value database in pure Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cberner/redb) (👨‍💻 41 · 🔀 210 · 📦 2.6K):
+- [GitHub](https://github.com/cberner/redb) (👨‍💻 41 · 🔀 210 · 📦 2.7K):
 
 	```
 	git clone https://github.com/cberner/redb
@@ -129,7 +129,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/cozodb/cozo">cozo</a></b> (🥈15 ·  ⭐ 4K · 💀) - A transactional, relational-graph-vector database that uses Datalog for.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code>
+- <b><a href="https://github.com/cozodb/cozo">cozo</a></b> (🥈15 ·  ⭐ 4.1K · 💀) - A transactional, relational-graph-vector database that uses Datalog.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code>
 - <b><a href="https://github.com/tonbo-io/tonbo">Tonbo</a></b> (🥉9 ·  ⭐ 1.2K · 💤) - A portable embedded database using Arrow. <code>❗Unlicensed</code>
 </details>
 <br>
@@ -159,7 +159,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <details><summary>Show 5 hidden projects...</summary>
 
-- <b><a href="https://github.com/OpenLEADR/openleadr-rs">openleadr-rs</a></b> (🥇7 ·  ⭐ 91) - OpenADR 3.0 VTN and VEN implementation in Rust. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/OpenLEADR/openleadr-rs">openleadr-rs</a></b> (🥇7 ·  ⭐ 95) - OpenADR 3.0 VTN and VEN implementation in Rust. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/bikeshedder/sunspec">sunspec</a></b> (🥈6 ·  ⭐ 8) - Rust crate for accessing SunSpec compliant devices in a safe and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/lukaskirner/tokio-sunspec">tokio-sunspec</a></b> (🥈5 ·  ⭐ 4 · 💀) - A tokio-based SunSpec library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/DerAndereAndi/eebus-rust">eebus-rust</a></b> (🥉4 ·  ⭐ 3 · 💀) - Very basic EEBUS protocol implementation in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -183,7 +183,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/roboplc/snmp2">snmp2</a></b> (🥇11 ·  ⭐ 55 · 📈) - Dependency-free basic SNMP v1/v2/v3 client in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/roboplc/snmp2">snmp2</a></b> (🥇11 ·  ⭐ 55) - Dependency-free basic SNMP v1/v2/v3 client in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/davedufresne/modern_snmp">snmp_mp</a></b> (🥉6 ·  ⭐ 22 · 💀) - A pure-Rust library for SNMPv3. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 </details>
 <br>
@@ -225,9 +225,9 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/pykeio/ort">ort</a></b> (🥇18 ·  ⭐ 2.2K) - Fast ML inference & training for ONNX models in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/pykeio/ort">ort</a></b> (🥇19 ·  ⭐ 2.4K · 📈) - Fast ML inference & training for ONNX models in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/pykeio/ort) (👨‍💻 74 · 🔀 230 · 📦 5.3K):
+- [GitHub](https://github.com/pykeio/ort) (👨‍💻 74 · 🔀 260 · 📦 5.4K):
 
 	```
 	git clone https://github.com/pykeio/ort
@@ -309,7 +309,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <details><summary><b><a href="https://github.com/mdeloof/statig">statig</a></b> (🥇12 ·  ⭐ 680 · 💤) - Hierarchical state machines for designing event-driven systems. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mdeloof/statig) (👨‍💻 16 · 🔀 29 · 📦 100):
+- [GitHub](https://github.com/mdeloof/statig) (👨‍💻 16 · 🔀 29 · 📦 110):
 
 	```
 	git clone https://github.com/mdeloof/statig
@@ -503,7 +503,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <details><summary><b><a href="https://github.com/mitsuhiko/insta">insta</a></b> (🥇20 ·  ⭐ 2.9K) - A snapshot testing library for rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/mitsuhiko/insta) (👨‍💻 75 · 🔀 150 · 📦 20K):
+- [GitHub](https://github.com/mitsuhiko/insta) (👨‍💻 75 · 🔀 150 · 📦 21K):
 
 	```
 	git clone https://github.com/mitsuhiko/insta
@@ -537,7 +537,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 </details>
 <details><summary><b><a href="https://github.com/rust-lang/rust-clippy">clippy</a></b> (🥇20 ·  ⭐ 13K) - A bunch of lints to catch common mistakes and improve your Rust code... <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/rust-lang/rust-clippy) (👨‍💻 1.4K · 🔀 2.1K · 📦 40):
+- [GitHub](https://github.com/rust-lang/rust-clippy) (👨‍💻 1.5K · 🔀 2.1K · 📦 40):
 
 	```
 	git clone https://github.com/rust-lang/rust-clippy
@@ -545,7 +545,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 </details>
 <details><summary><b><a href="https://github.com/EmbarkStudios/puffin">puffin</a></b> (🥈16 ·  ⭐ 1.7K) - Friendly little instrumentation profiler for Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/EmbarkStudios/puffin) (👨‍💻 45 · 🔀 110 · 📦 1.4K):
+- [GitHub](https://github.com/EmbarkStudios/puffin) (👨‍💻 46 · 🔀 110 · 📦 1.4K):
 
 	```
 	git clone https://github.com/EmbarkStudios/puffin
@@ -605,7 +605,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <details><summary><b><a href="https://github.com/Eugeny/russh">russh</a></b> (🥇18 ·  ⭐ 1.8K) - Rust SSH client & server library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Eugeny/russh) (👨‍💻 120 · 🔀 270 · 📦 2.5K):
+- [GitHub](https://github.com/Eugeny/russh) (👨‍💻 120 · 🔀 270 · 📦 2.6K):
 
 	```
 	git clone https://github.com/Eugeny/russh
@@ -631,7 +631,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <details><summary><b><a href="https://github.com/AspectUnk/russh-sftp">russh-sftp</a></b> (🥇14 ·  ⭐ 100) - SFTP subsystem supported server and client for Russh. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/AspectUnk/russh-sftp) (👨‍💻 23 · 🔀 48 · 📦 450):
+- [GitHub](https://github.com/AspectUnk/russh-sftp) (👨‍💻 23 · 🔀 48 · 📦 470):
 
 	```
 	git clone https://github.com/AspectUnk/russh-sftp
