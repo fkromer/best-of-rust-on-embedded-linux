@@ -97,7 +97,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <details><summary><b><a href="https://github.com/tursodatabase/turso">Turso Database</a></b> (🥇19 ·  ⭐ 24K) - A SQL database in Rust: SQLite-compatible, now also speaking.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 1K · 🔀 1.2K · 📦 140):
+- [GitHub](https://github.com/tursodatabase/turso) (👨‍💻 1.1K · 🔀 1.3K · 📦 140):
 
 	```
 	git clone https://github.com/tursodatabase/turso
@@ -105,7 +105,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 </details>
 <details><summary><b><a href="https://github.com/cberner/redb">redb</a></b> (🥈17 ·  ⭐ 4.4K) - An embedded key-value database in pure Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cberner/redb) (👨‍💻 42 · 🔀 210 · 📦 2.8K):
+- [GitHub](https://github.com/cberner/redb) (👨‍💻 43 · 🔀 210 · 📦 2.9K):
 
 	```
 	git clone https://github.com/cberner/redb
@@ -206,7 +206,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <details><summary><b><a href="https://github.com/rust-skia/rust-skia">rust-skia</a></b> (🥇18 ·  ⭐ 1.8K) - Rust Bindings for the Skia Graphics Library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/rust-skia/rust-skia) (👨‍💻 74 · 🔀 190 · 📦 3.1K):
+- [GitHub](https://github.com/rust-skia/rust-skia) (👨‍💻 74 · 🔀 190 · 📦 3.2K):
 
 	```
 	git clone https://github.com/rust-skia/rust-skia
@@ -246,7 +246,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 </details>
 <details><summary><b><a href="https://github.com/alttch/rmodbus">rmodbus</a></b> (🥈13 ·  ⭐ 160 · 💤) - Modbus framework for Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/alttch/rmodbus) (👨‍💻 21 · 🔀 30 · 📦 65):
+- [GitHub](https://github.com/alttch/rmodbus) (👨‍💻 21 · 🔀 30 · 📦 67):
 
 	```
 	git clone https://github.com/alttch/rmodbus
@@ -426,7 +426,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <details><summary><b><a href="https://github.com/siemens/kas">kas</a></b> (🥇15 ·  ⭐ 580) - Setup tool for bitbake based projects. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/siemens/kas) (👨‍💻 89 · 🔀 200 · 📦 100):
+- [GitHub](https://github.com/siemens/kas) (👨‍💻 90 · 🔀 200 · 📦 100):
 
 	```
 	git clone https://github.com/siemens/kas
@@ -446,9 +446,9 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 	git clone https://github.com/cross-rs/cross
 	```
 </details>
-<details><summary><b><a href="https://github.com/rust-cross/cargo-zigbuild">cargo-zigbuild</a></b> (🥉15 ·  ⭐ 2.5K) - Compile Cargo project with zig as linker. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/rust-cross/cargo-zigbuild">cargo-zigbuild</a></b> (🥉12 ·  ⭐ 2.5K · 📉) - Compile Cargo project with zig as linker. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/rust-cross/cargo-zigbuild) (👨‍💻 49 · 🔀 94 · 📦 160):
+- [GitHub](https://github.com/rust-cross/cargo-zigbuild) (👨‍💻 49 · 🔀 94):
 
 	```
 	git clone https://github.com/rust-cross/cargo-zigbuild
@@ -480,9 +480,9 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 	git clone https://github.com/mitsuhiko/insta
 	```
 </details>
-<details><summary><b><a href="https://github.com/proptest-rs/proptest">proptest</a></b> (🥉19 ·  ⭐ 2.2K · 📉) - Hypothesis-like property testing for Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/proptest-rs/proptest">proptest</a></b> (🥉19 ·  ⭐ 2.2K) - Hypothesis-like property testing for Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/proptest-rs/proptest) (👨‍💻 97 · 🔀 220 · 📦 61K):
+- [GitHub](https://github.com/proptest-rs/proptest) (👨‍💻 97 · 🔀 220 · 📦 62K):
 
 	```
 	git clone https://github.com/proptest-rs/proptest
@@ -554,7 +554,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 	git clone https://github.com/CycloneDX/cyclonedx-rust-cargo
 	```
 </details>
-<details><summary><b><a href="https://github.com/awslabs/duvet">duvet</a></b> (🥉10 ·  ⭐ 150 · 📈) - A requirements traceability tool. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/awslabs/duvet">duvet</a></b> (🥉10 ·  ⭐ 150) - A requirements traceability tool. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/awslabs/duvet) (👨‍💻 19 · 🔀 22):
 
@@ -576,7 +576,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <details><summary><b><a href="https://github.com/Eugeny/russh">russh</a></b> (🥇18 ·  ⭐ 1.8K) - Rust SSH client & server library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Eugeny/russh) (👨‍💻 120 · 🔀 270 · 📦 2.6K):
+- [GitHub](https://github.com/Eugeny/russh) (👨‍💻 120 · 🔀 280 · 📦 2.6K):
 
 	```
 	git clone https://github.com/Eugeny/russh
@@ -602,7 +602,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <details><summary><b><a href="https://github.com/AspectUnk/russh-sftp">russh-sftp</a></b> (🥇14 ·  ⭐ 110) - SFTP subsystem supported server and client for Russh. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/AspectUnk/russh-sftp) (👨‍💻 24 · 🔀 50 · 📦 480):
+- [GitHub](https://github.com/AspectUnk/russh-sftp) (👨‍💻 24 · 🔀 50 · 📦 490):
 
 	```
 	git clone https://github.com/AspectUnk/russh-sftp
