@@ -103,9 +103,9 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 	git clone https://github.com/tursodatabase/turso
 	```
 </details>
-<details><summary><b><a href="https://github.com/cberner/redb">redb</a></b> (🥈17 ·  ⭐ 4.4K) - An embedded key-value database in pure Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/cberner/redb">redb</a></b> (🥈18 ·  ⭐ 4.7K · 📈) - An embedded key-value database in pure Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cberner/redb) (👨‍💻 43 · 🔀 210 · 📦 2.9K):
+- [GitHub](https://github.com/cberner/redb) (👨‍💻 43 · 🔀 230 · 📦 2.9K):
 
 	```
 	git clone https://github.com/cberner/redb
@@ -218,9 +218,9 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/pykeio/ort">ort</a></b> (🥇19 ·  ⭐ 2.4K) - Fast ML inference & training for ONNX models in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/pykeio/ort">ort</a></b> (🥇19 ·  ⭐ 2.5K) - Fast ML inference & training for ONNX models in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/pykeio/ort) (👨‍💻 75 · 🔀 260 · 📦 5.5K):
+- [GitHub](https://github.com/pykeio/ort) (👨‍💻 76 · 🔀 260 · 📦 5.6K):
 
 	```
 	git clone https://github.com/pykeio/ort
@@ -238,7 +238,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <details><summary><b><a href="https://github.com/slowtec/tokio-modbus">tokio-modbus</a></b> (🥇14 ·  ⭐ 510 · 💤) - A tokio-based modbus library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/slowtec/tokio-modbus) (👨‍💻 39 · 🔀 140 · 📦 410):
+- [GitHub](https://github.com/slowtec/tokio-modbus) (👨‍💻 39 · 🔀 140 · 📦 420):
 
 	```
 	git clone https://github.com/slowtec/tokio-modbus
@@ -304,7 +304,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 - <b><a href="https://github.com/mdeloof/statig">statig</a></b> (🥇12 ·  ⭐ 680 · 💀) - Hierarchical state machines for designing event-driven systems. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/eugene-babichenko/rust-fsm">rust-fsm</a></b> (🥇12 ·  ⭐ 210 · 💀) - Finite state machine framework for Rust with readable specifications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/przygienda/rust-extfsm">rust-extfsm</a></b> (🥉7 ·  ⭐ 49 · 💀) - Extended Finite State Machine library in Rust with internal.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/przygienda/rust-extfsm">rust-extfsm</a></b> (🥉8 ·  ⭐ 51 · 📈) - Extended Finite State Machine library in Rust with internal.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/hashmismatch/finny.rs">finny</a></b> (🥉5 ·  ⭐ 73 · 💀) - Finite State Machines for Rust. <code>❗Unlicensed</code>
 </details>
 <br>
@@ -424,9 +424,9 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/siemens/kas">kas</a></b> (🥇15 ·  ⭐ 580) - Setup tool for bitbake based projects. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/siemens/kas">kas</a></b> (🥇15 ·  ⭐ 590) - Setup tool for bitbake based projects. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/siemens/kas) (👨‍💻 90 · 🔀 200 · 📦 100):
+- [GitHub](https://github.com/siemens/kas) (👨‍💻 91 · 🔀 210 · 📦 100):
 
 	```
 	git clone https://github.com/siemens/kas
@@ -446,9 +446,9 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 	git clone https://github.com/cross-rs/cross
 	```
 </details>
-<details><summary><b><a href="https://github.com/rust-cross/cargo-zigbuild">cargo-zigbuild</a></b> (🥉12 ·  ⭐ 2.5K · 📉) - Compile Cargo project with zig as linker. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/rust-cross/cargo-zigbuild">cargo-zigbuild</a></b> (🥉15 ·  ⭐ 2.5K · 📈) - Compile Cargo project with zig as linker. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/rust-cross/cargo-zigbuild) (👨‍💻 49 · 🔀 94):
+- [GitHub](https://github.com/rust-cross/cargo-zigbuild) (👨‍💻 49 · 🔀 94 · 📦 160):
 
 	```
 	git clone https://github.com/rust-cross/cargo-zigbuild
@@ -474,7 +474,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <details><summary><b><a href="https://github.com/mitsuhiko/insta">insta</a></b> (🥇20 ·  ⭐ 2.9K) - A snapshot testing library for rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/mitsuhiko/insta) (👨‍💻 75 · 🔀 150 · 📦 21K):
+- [GitHub](https://github.com/mitsuhiko/insta) (👨‍💻 76 · 🔀 150 · 📦 21K):
 
 	```
 	git clone https://github.com/mitsuhiko/insta
@@ -500,7 +500,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <details><summary><b><a href="https://github.com/tokio-rs/tracing">tracing</a></b> (🥇25 ·  ⭐ 6.8K) - Application level tracing for Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tokio-rs/tracing) (👨‍💻 340 · 🔀 910 · 📦 520K):
+- [GitHub](https://github.com/tokio-rs/tracing) (👨‍💻 340 · 🔀 910 · 📦 530K):
 
 	```
 	git clone https://github.com/tokio-rs/tracing
@@ -532,7 +532,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 </details>
 <details><summary><b><a href="https://github.com/EmbarkStudios/crash-handling">crash-handling</a></b> (🥈15 ·  ⭐ 190) - Collection of crates to deal with crashes. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/EmbarkStudios/crash-handling) (👨‍💻 15 · 🔀 33 · 📦 2.1K):
+- [GitHub](https://github.com/EmbarkStudios/crash-handling) (👨‍💻 15 · 🔀 33 · 📦 2.2K):
 
 	```
 	git clone https://github.com/EmbarkStudios/crash-handling
@@ -540,7 +540,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 </details>
 <details><summary><b><a href="https://github.com/EmbarkStudios/cargo-about">cargo-about</a></b> (🥉13 ·  ⭐ 680 · 💤) - Cargo plugin to generate list of all licenses for a crate. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/EmbarkStudios/cargo-about) (👨‍💻 31 · 🔀 43 · 📦 67):
+- [GitHub](https://github.com/EmbarkStudios/cargo-about) (👨‍💻 32 · 🔀 43 · 📦 67):
 
 	```
 	git clone https://github.com/EmbarkStudios/cargo-about
@@ -576,7 +576,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <details><summary><b><a href="https://github.com/Eugeny/russh">russh</a></b> (🥇18 ·  ⭐ 1.8K) - Rust SSH client & server library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Eugeny/russh) (👨‍💻 120 · 🔀 280 · 📦 2.6K):
+- [GitHub](https://github.com/Eugeny/russh) (👨‍💻 120 · 🔀 280 · 📦 2.7K):
 
 	```
 	git clone https://github.com/Eugeny/russh
@@ -602,7 +602,7 @@ This curated list contains 75 awesome open-source projects with a total of 120K 
 
 <details><summary><b><a href="https://github.com/AspectUnk/russh-sftp">russh-sftp</a></b> (🥇14 ·  ⭐ 110) - SFTP subsystem supported server and client for Russh. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/AspectUnk/russh-sftp) (👨‍💻 24 · 🔀 50 · 📦 490):
+- [GitHub](https://github.com/AspectUnk/russh-sftp) (👨‍💻 24 · 🔀 50 · 📦 510):
 
 	```
 	git clone https://github.com/AspectUnk/russh-sftp
